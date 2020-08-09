@@ -1,0 +1,5 @@
+# GOOGLEBOT NO CRAWLING!
+# SNIPER NO SNIPING!
+# sadness please go away
+User-agent: * 
+Disallow: /discord.html
